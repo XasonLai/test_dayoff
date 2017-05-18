@@ -1,0 +1,22 @@
+CKEDITOR.plugins.setLang('youtube', 'zh', {
+    button: '嵌入 Youtube 影片',
+    title: '嵌入 Youtube 影片',
+    txtEmbed: '在這裡貼入嵌入​​代碼',
+    txtUrl: '貼入 Youtube 影片連結',
+    txtWidth: '寬度',
+    txtHeight: '高度',
+    chkRelated: '建議顯示在視頻的結尾視頻',
+    txtStartAt: '起始播放時間 (ss or mm:ss or hh:mm:ss)',
+    chkPrivacy: '啟用隱私權加強保護模式',
+    chkOlderCode: '使用舊版的嵌入代碼',
+    chkAutoplay: '自動播放',
+    noCode: '您必須填入嵌入代碼或是影片連結',
+    invalidEmbed: '您所輸入的嵌入代碼似乎不是有效',
+    invalidUrl: '您所輸入的網址似乎不是有效',
+    or: '或',
+    noWidth: '您必須指定寬度',
+    invalidWidth: '指定一個有效的寬度',
+    noHeight: '您必須指定高度',
+    invalidHeight: '指定一個有效的高度',
+    invalidTime: '指定一個有效的起始播放時間'
+});
